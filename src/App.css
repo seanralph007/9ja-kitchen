@@ -161,6 +161,10 @@ nav {
   flex: 1;
 }
 
+.home-image-container {
+  max-width: 700px;
+}
+
 .home-text-section {
   flex: 1;
   display: flex;
@@ -505,7 +509,7 @@ textarea {
     text-decoration: none;
     /* display: flex; */
     color: green;
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
   .nav-logo-container {
     max-width: 140px;

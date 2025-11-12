@@ -70,7 +70,7 @@ const Navbar = () => {
       ItemId: "#contact",
     },
     {
-      text: "Cart",
+      text: "Tray",
       icon: <DinnerDining />,
       func: handleOpenCart,
       qtn: `(${cartQuantity})`,
