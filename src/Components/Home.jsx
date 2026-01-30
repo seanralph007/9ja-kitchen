@@ -1,7 +1,6 @@
 import React from "react";
 import BannerBackground from "../assets/home-banner-background2.png";
 import Jollof from "../assets/Jollof.png";
-import BannerImage from "../assets/home-banner-image.png";
 import { FiArrowRight } from "react-icons/fi";
 
 const Home = () => {
